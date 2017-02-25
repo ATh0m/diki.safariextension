@@ -1,0 +1,12 @@
+#diki-lookup {
+  box-shadow: 0 0 15px black;
+  background-color: #fff;
+
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 25vw;
+  height: 100vh;
+
+  z-index: 1000000;
+}
