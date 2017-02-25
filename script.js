@@ -21,6 +21,9 @@ function main() {
     var lastKeyPressTime = 0;
 
     document.addEventListener('keydown', function handleKeydown(e) {
+        var target = e.target;
+        if (target.tagName === 'INPUT' && target.type === 'text') { return; }
+
         if (e.keyCode != 68) { return; }
 
         var currentKeyPressTime = new Date();
