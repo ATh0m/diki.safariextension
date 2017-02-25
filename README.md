@@ -5,4 +5,4 @@ Safari extension to lookup word in diki.pl dictionary
 
 
 
-**Everything what you need to do is double click specific word. You can alse select that word and double press `d` key**
+**Everything what you need to do is double click specific word. You can also select that word and double press `d` key. To close diki.pl window just click somewhere else**
